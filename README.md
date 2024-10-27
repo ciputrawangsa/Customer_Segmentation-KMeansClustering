@@ -4,12 +4,16 @@ Repositori ini berisi proyek segmentasi pelanggan menggunakan algoritma K-Means 
 
 ## Daftar Isi 🗒️
 1. [Project Overview](#project-overview-)
-2. [Metode yang Digunakan](#metode-yang-digunakan-)
-3. [File yang Tersedia](#file-yang-tersedia-)
-4. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
-5. [Dependencies](#dependencies-)
-6. [Libraries](#libraries-)
-7. [Author](#author-)
+2. [Latar Belakang Masalah](#latar-belakang-masalah)
+3. [Problem Statement](#problem-statement-)
+4. [Metode yang Digunakan](#metode-yang-digunakan-)
+5. [Analisa Karakter per Cluster](#analisa-karakter-per-cluster-)
+6. [Rekomendasi](#rekomendasi-)
+7. [File yang Tersedia](#file-yang-tersedia-)
+8. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
+9. [Dependencies](#dependencies-)
+10. [Libraries](#libraries-)
+11. [Author](#author-)
 
 ## Project Overview 📝
 
